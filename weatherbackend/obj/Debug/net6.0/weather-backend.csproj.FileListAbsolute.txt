@@ -1,0 +1,7 @@
+D:\WeatherProgramWebsite\weatherbackend\obj\Debug\net6.0\weather-backend.csproj.AssemblyReference.cache
+D:\WeatherProgramWebsite\weatherbackend\obj\Debug\net6.0\weather-backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeatherProgramWebsite\weatherbackend\obj\Debug\net6.0\weather-backend.AssemblyInfoInputs.cache
+D:\WeatherProgramWebsite\weatherbackend\obj\Debug\net6.0\weather-backend.AssemblyInfo.cs
+D:\WeatherProgramWebsite\weatherbackend\obj\Debug\net6.0\weather-backend.csproj.CoreCompileInputs.cache
+D:\WeatherProgramWebsite\weatherbackend\obj\Debug\net6.0\weather-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\WeatherProgramWebsite\weatherbackend\obj\Debug\net6.0\weather-backend.MvcApplicationPartsAssemblyInfo.cache

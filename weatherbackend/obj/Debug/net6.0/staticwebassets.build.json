@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ybQhjUVx+ZzKSaQSTBEr3BRGTu6EEKp/bAq7uTdD9eQ=",
+  "Source": "weatherbackend",
+  "BasePath": "_content/weatherbackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
